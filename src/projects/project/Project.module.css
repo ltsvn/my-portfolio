@@ -1,0 +1,32 @@
+.project {
+    width: 250px;
+    background-color: #85d5d5;
+    margin: 10px;
+    display: flex;
+    padding: 10px;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.imgContainer{
+background-color: pink;
+    width: 150px;
+    height: 150px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.watchBlock{
+    background-color: #bd87d7;
+    width: 60px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+

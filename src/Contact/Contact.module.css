@@ -1,0 +1,42 @@
+.contactBlock {
+    min-height: 100vh;
+    background-color: #e0a481;
+    display: flex;
+    align-items: center;
+}
+
+.mainBlockInfo {
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.title {
+
+}
+
+.formContainer {
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    margin: 90px 0;
+
+}
+
+.button {
+width: 150px;
+    padding: 5px;
+    margin: 5px;
+}
+
+.InputStyles{
+    height: 40px;
+    margin: 5px;
+}
+
+.messageInputStyles{
+    margin: 5px;
+    height: 150px
+}
